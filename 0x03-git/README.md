@@ -1,1 +1,1 @@
-This is a sub-directory
+This is a sub-directory updated from GitHub
